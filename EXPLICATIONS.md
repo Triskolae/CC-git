@@ -24,3 +24,5 @@ ex: merge de la couleur du background et du message de confirmation de même cou
 
 - Commit et publication: après un commit local, il faut pousser la branche committée sur git, et avoir un repository défini en remote.
 Commit sur branche main: 638b45561baab4ae5a0f2c6ef46aad3edc000177
+
+Aides utilisées: sans IA
